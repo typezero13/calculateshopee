@@ -1,5 +1,5 @@
 # calculateshopee
-
+Noraini
 Just open shopee web and login, then copy & paste this javascript, lastly simply run calculate(0);
 
 - Use calculate.js to calculate in console
